@@ -80,9 +80,9 @@ Example round:
 
 ### Before the lesser experienced Archer knows what hit him, his veteran opponent has already taken deadly action.  One skirmish point to your opponent.  :-(
 
-### Finally, at the crucial crest of battle, your opponents mage tries his tricks on your Rogue, but suffers instead a dastardly doom (pocket sand!).. another skirmish point for you!
+### Finally, at the crucial crest of battle, one of your opponents Mages tries his tricks on your Rogue, but suffers instead a dastardly doom (pocket sand!).. another skirmish point for you!
 
-<img src="client/src/images/mage1.png" width="300"><img src="client/src/images/rogue2.png" width="300">
+<img src="client/src/images/mage2.png" width="300"><img src="client/src/images/rogue2.png" width="300">
 
 | Player | Skirmish One | Skirmish Two | Skirmish Three | Total |
 | :----: | :----: | :----: | :----: | :---: |
