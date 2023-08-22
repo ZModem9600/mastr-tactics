@@ -49,7 +49,7 @@ Each player collects one (1) point for each victorious skirmish in the battle.
 
 Three (3) points are awarded per **battle**, or, one (1) per **skirmish**.
 
-Two (2) bonus beefy-brawler points are awarded to the player with the battle party of the higher rank (the sum of all *rank* values) in their battle party.
+Two (2) bonus beefy-brawler points are awarded to the player with the battle party of higher rank (the sum of all *rank* values) in their battle party.
 
 All revealed cards then move to the communal discard pile, and each player draws into their hand, back up to five character cards, from the communal deck to prepare for the next battle.
 
