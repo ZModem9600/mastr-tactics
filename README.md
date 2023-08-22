@@ -29,9 +29,9 @@ Each player chooses a **3-card battle-party** from their *hand* of five-random c
 
 ![](client/src/images/archer1.png)
 
-Both players reveal their choices and the BATLLE BEGINS!  A battle is a set of three face-to-face skirmishes.
+Both players reveal their choices by revealing their *battle party*, placing their chosen champions into the battlefield.. the BATLLE BEGINS!  A *battle* is a set of three face-to-face *skirmishes*.
 
-Each character-class is vulnerable to attack from its nemisis class as shown:
+Every *faction* is vulnerable to attack from its nemisis faction as shown:
 
 *  ***Magicians*** are defeated by *rogues* and *sorcerors*.
 
@@ -43,21 +43,16 @@ Each character-class is vulnerable to attack from its nemisis class as shown:
 
 *  ***Rogues*** are defeated by *templars* and *archers*.
 
-If two members of the same character class clash during battle, the party-member with the higher class wins the skirmish between the two.
+If two members of the same *faction* clash during battle, the higher *class* is the victor.
 
-Each player collect a point for each victorious skirmish in the battle. 
+Each player collects one (1) point for each victorious skirmish in the battle. 
 
-Only 3-points are awarded per battle (1 per skirmish).
+Three (3) points are awarded per **battle**, or, one (1) per **skirmish**.
 
-The winner (best 2/3) of the battle recieves a bonus point as the spoils of battle.
+Two (2) bonus beefy-brawler points are awarded to the player with the battle party of the higher rank (the sum of all *rank* values) in their battle party.
 
-All played cards then move to a communal discard pile, and each player draws 3 more character-cards from the communal deck.
+All revealed cards then move to the communal discard pile, and each player draws into their hand, back up to five character cards, from the communal deck to prepare for the next battle.
 
 If the deck runs out of character cards, the discard pile is randomized and becomes a new communal deck.
 
-The games ends when a player reaches 10 points.
-
-## The leader board
-
-After each battle, players accumulate points for a ranked high-score board.
-
+The games ends when a player reaches 25 points at the end of a battle.
