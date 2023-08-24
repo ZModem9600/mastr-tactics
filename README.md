@@ -26,11 +26,9 @@ The character *deck* is randomized and a *hand* of 5 cards are dealt to both pla
 
 Each player chooses a **3-card battle-party** from their *hand* of five-random cards drawn from a common character *deck*, and places them face down, in opposition to the party selected by your opponent.
 
-#### <<<<<VISUAL AID #1>>>>>
+Both players reveal their choices by revealing their *battle party*, placing their chosen champions into the battlefield.. the BATLLE BEGINS!  A *battle* is a set of three face-to-face *skirmishes*.
 
-Both players reveal their choices and the BATLLE BEGINS!  A battle is a set of three face-to-face skirmishes.
-
-Each character-class is vulnerable to attack from its nemisis class as shown:
+Every *faction* is vulnerable to attack from its nemisis faction as shown:
 
 *  ***Magicians*** are defeated by *rogues* and *sorcerors*.
 
@@ -42,21 +40,57 @@ Each character-class is vulnerable to attack from its nemisis class as shown:
 
 *  ***Rogues*** are defeated by *templars* and *archers*.
 
-If two members of the same character class clash during battle, the party-member with the higher class wins the skirmish between the two.
+If two members of the same *faction* clash during battle, the higher *class* is the victor.
 
-Each player collect a point for each victorious skirmish in the battle. 
+Each player collects one (1) point for each victorious skirmish in the battle. 
 
-Only 3-points are awarded per battle (1 per skirmish).
+Three (3) points are awarded per **battle**, or, one (1) per **skirmish**.
 
-The winner (best 2/3) of the battle recieves a bonus point as the spoils of battle.
+Two (2) bonus beefy-brawler points are awarded to the player with the battle party of higher rank (the sum of all *rank* values) in their battle party.
 
-All played cards then move to a communal discard pile, and each player draws 3 more character-cards from the communal deck.
+All revealed cards then move to the communal discard pile, and each player draws into their hand, back up to five character cards, from the communal deck to prepare for the next battle.
 
 If the deck runs out of character cards, the discard pile is randomized and becomes a new communal deck.
 
-The games ends when a player reaches 10 points.
+The games ends when a player reaches 25 points at the end of a battle.
 
-## The leader board
+Example round:
 
-After each battle, players accumulate points for a ranked high-score board.
 
+
+# An Example Battle
+
+### Each player chooses their battle party and places them in the center of the battlfield (play area):
+
+| Player | Skirmish One | Skirmish Two | Skirmish Three |
+| :----: | :----: | :----: | :----: |
+| Opponent | <img src="client/src/images/templar4.png" width="300"> | <img src="client/src/images/archer4.png" width="300"> | <img src="client/src/images/mage1.png" width="300"> |
+| You | <img src="client/src/images/mage1.png" width="300"> | <img src="client/src/images/archer3.png" width="300"> | <img src="client/src/images/rogue2.png" width="300"> |
+
+
+### This cock-eyed but noble Templar finds himself in a skirmish with a novice Mage, just out of the academy:
+
+<img src="client/src/images/templar4.png" width="300"><img src="client/src/images/mage1.png" width="300">
+
+### However, Mages are first taught how to quickly dispatch a simple Templar, no matter his might.  The first skirmish point goes to you!
+
+### Now, the second skirmish of the battle.  In this case, two Archers are fighting to the death:  
+
+<img src="client/src/images/archer4.png" width="300"><img src="client/src/images/archer3.png" width="300">
+
+### Before the lesser experienced Archer knows what hit him, his veteran opponent has already taken deadly action.  One skirmish point to your opponent.  :-(
+
+### Finally, at the crucial crest of battle, one of your opponents Mages tries his tricks on your Rogue, but suffers instead a dastardly doom (pocket sand!).. another skirmish point for you!
+
+<img src="client/src/images/mage2.png" width="300"><img src="client/src/images/rogue2.png" width="300">
+
+| Player | Skirmish One | Skirmish Two | Skirmish Three | Total |
+| :----: | :----: | :----: | :----: | :---: |
+| Opponent | 0 | 1| 0 | **1** |
+| You | 1 | 0 | 1 | **2** |
+
+### You have won the battle, earning 2 points to your game total.
+
+### Now each player draws back up to five cards, and a new battle is planned.  
+
+## Play continues, grueling battle after grueling battle, until the ***FIRST PLAYER reaching 25 points WINS THE WAR*** to become a MASTR Tactician!
